@@ -17,7 +17,7 @@
 
 ## 快速上手 🤗
 ### 直接使用打包好的程序
-点击[这里](https://github.com/Zzaphkiel/Seraphine/releases/latest)进入发布页面，在下方找到资源中的 `Seraphine.7z`，点击下载并解压至文件夹中，双击运行其中的 `Seraphine.exe` 即可。
+点击[这里](https://gitee.com/dbeidachazi/Seraphine/releases/download/Latest/Seraphine.7z)下载
 
 ### 或通过本地构建
 下载项目源码 `zip` 压缩包解压至文件夹或通过 `git`
